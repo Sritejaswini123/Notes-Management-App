@@ -29,3 +29,13 @@ All state is lifted to App.jsx: `notes` (array of {id, title, description}) and 
 - ID uses Date.now() for uniqueness.
 - No persistence, auth, or advanced features as per scope.
 - Loader simulates API; real API would replace setTimeout.
+
+<img width="1905" height="972" alt="image" src="https://github.com/user-attachments/assets/f6ebd557-6cec-4e7a-98a7-d04481db8413" />
+<img width="1535" height="799" alt="image" src="https://github.com/user-attachments/assets/1d36c0d4-5a24-4a7e-93a0-7137f540d6af" />
+<img width="1136" height="634" alt="image" src="https://github.com/user-attachments/assets/26a2fff5-4fcf-4948-ad5c-8c72f1a86be4" />
+<img width="1352" height="834" alt="image" src="https://github.com/user-attachments/assets/d567bdb7-e220-4793-8d0b-6115b2af7621" />
+<img width="1367" height="663" alt="image" src="https://github.com/user-attachments/assets/c608931c-fce3-4432-bafe-1249d43c29d7" />
+
+
+
+
